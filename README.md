@@ -78,8 +78,6 @@ En Desarrollo
 ## Autor
 Juan Esteban Ospina Pinzón
 
-    Control de Versiones: Git con GitHub.
-
  Estado del Proyecto: En Desarrollo
 
     Actualmente en la fase de diseño y arquitectura inicial.
