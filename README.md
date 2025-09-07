@@ -78,8 +78,3 @@ En Desarrollo
 ## Autor
 Juan Esteban Ospina Pinzón
 
- Estado del Proyecto: En Desarrollo
-
-    Actualmente en la fase de diseño y arquitectura inicial.
-
-    Próximos pasos: Desarrollo del MVP (Producto Mínimo Viable).
