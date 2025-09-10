@@ -76,5 +76,4 @@ En Desarrollo
     Despliegue: Vercel/Netlify (Frontend) y Heroku/AWS (Backend).
 
 ## Autor
-Juan Esteban Ospina Pinzón
-
+Juan Esteban Ospina Pinzon
