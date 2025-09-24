@@ -51,6 +51,17 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 
 ![Diagrama Flujo Proyecto](https://github.com/user-attachments/assets/30cbcfbb-80e8-498a-9bdb-ebc1e7dd2092)
 
+
+# Historias de Usuario
+
+## Historia de Usuario 1: Registro de Usuario
+ID: GH-001
+Título: Registro de nuevo usuario
+Descripción: Como nuevo usuario, quiero registrarme en la plataforma con mi email y contraseña, para poder acceder a todas las funcionalidades de GameHub.
+Prioridad MoSCoW: Must have
+Estimación: 3 puntos
+Criterios de aceptación (Gherkin):
+
 # Autor
 Juan Esteban Ospina Pinzón
 
