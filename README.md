@@ -48,24 +48,3 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 8. Control de Versiones: Git con GitHub.
 
 
-# Estado del Proyecto
-
-En Desarrollo
-
-1. Actualmente en la fase de diseño y arquitectura inicial.
-
-2. Próximos pasos: Desarrollo del MVP (Producto Mínimo Viable).productos, categorías, inventario, pedidos y usuarios desde una interfaz intuitiva.
-
-    Métricas y Reportes: Obtén insights valiosos sobre las ventas y el comportamiento de los usuarios.
-
-   Stack Tecnológico
-
-    Frontend: React.js con Next.js para Renderizado del Lado del Servidor (SSR) y una mejor optimización SEO.
-
-    Backend: Node.js con Express.js o Python con Django.
-
-    Base de Datos: PostgreSQL.
-
-    Almacenamiento: Cloudinary para la gestión de imágenes.
-
-    Estilos: CSS Modules, Sass o Tailwind CSS.
