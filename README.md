@@ -85,13 +85,14 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 - Descripción: Como usuario, quiero reservar un juego que aún no ha sido lanzado, para asegurarme de recibirlo el día de su estreno.
 - Prioridad MoSCoW: Should have
 - Estimación: 5 puntos
-##
-##
-##
-##
-##
-##
+  
+## Historia de Usuario 5: Gestión de Carrito de Compras
 
+- ID: GH-005
+- Título: Añadir producto al carrito
+- Descripción: Como usuario, quiero añadir videojuegos al carrito de compras, para luego proceder al checkout.
+- Prioridad MoSCoW: Must have
+- Estimación: 3 puntos
 
 # Autor
 Juan Esteban Ospina Pinzón
