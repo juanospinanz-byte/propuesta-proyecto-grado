@@ -1,3 +1,6 @@
+# Autor
+Juan Esteban Ospina Pinzón
+
 # GameHub
 
 GameHub es una plataforma de e-commerce especializada en videojuegos y consolas, diseñada para ofrecer una experiencia de compra única y personalizada para la comunidad gamer.
@@ -93,8 +96,4 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 - Descripción: Como usuario, quiero añadir videojuegos al carrito de compras, para luego proceder al checkout.
 - Prioridad MoSCoW: Must have
 - Estimación: 3 puntos
-
-# Autor
-Juan Esteban Ospina Pinzón
-
 
