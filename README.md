@@ -1,4 +1,4 @@
-# Autor
+### Autor
 Juan Esteban Ospina Pinzón
 
 # GameHub
