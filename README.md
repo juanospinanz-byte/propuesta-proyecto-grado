@@ -62,6 +62,37 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 - Prioridad MoSCoW: Must have
 - Estimación: 3 puntos
 
+## Historia de Usuario 2: Búsqueda y Filtrado de Productos
+
+- ID: GH-002
+- Título: Búsqueda y filtrado en catálogo
+- Descripción: Como usuario, quiero buscar y filtrar videojuegos por género, plataforma y rating ESRB, para encontrar rápidamente lo que me interesa.
+- Prioridad MoSCoW: Must have
+- Estimación: 5 puntos
+
+## Historia de Usuario 3: Sistema de Recomendaciones
+
+- ID: GH-003
+- Título: Recomendaciones personalizadas
+- Descripción: Como usuario registrado, quiero que el sistema me recomiende juegos basados en mis compras y gustos, para descubrir títulos afines.
+- Prioridad MoSCoW: Should have
+- Estimación: 8 puntos
+
+## Historia de Usuario 4: Reserva de Preventas
+
+- ID: GH-004
+- Título: Reservar juego en preventa
+- Descripción: Como usuario, quiero reservar un juego que aún no ha sido lanzado, para asegurarme de recibirlo el día de su estreno.
+- Prioridad MoSCoW: Should have
+- Estimación: 5 puntos
+##
+##
+##
+##
+##
+##
+
+
 # Autor
 Juan Esteban Ospina Pinzón
 
