@@ -47,4 +47,9 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 
 8. Control de Versiones: Git con GitHub.
 
+![Diagrama Flujo Proyecto](https://github.com/user-attachments/assets/30cbcfbb-80e8-498a-9bdb-ebc1e7dd2092)
+
+# Autor
+Juan Esteban Ospina Pinzón
+
 
