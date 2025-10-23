@@ -43,7 +43,7 @@ Determinar la implementacion de l validacion y verificacion en el proyecto con e
 
 ---
 
-## Casos identificados 
+## Casos 
 ## 1. Registro de Usuario
 Actor: Usuario nuevo
 
