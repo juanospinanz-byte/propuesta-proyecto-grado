@@ -1,14 +1,35 @@
 # Verificación y Validación — Proyecto GameHub
 
 ## Objetivo
-Identificar y documentar casos de uso, requisitos no funcionales, y criterios de validación que aseguren la calidad del sistema antes de su desarrollo.
+Determinar la implementacion de l validacion y verificacion en el proyecto con el fin de que la tienda de videojuegos ofrezca una experiencia de usuario personalizada, segura y eficiente. El sistema busca facilitar el descubrimiento, adquisición y gestión de productos gaming mediante catálogos inteligentes, recomendaciones personalizadas y procesos de compra optimizados
 
 ---
 
 ## Validación de Requisitos
-**1.** Verificar que cada historia de usuario sea completa y consistente
+## 1. Registro de Usuario
+- Formato de email válido
+- Fortaleza de contraseña
+- Email de confirmación enviado
 
-**2.** Validar que los criterios de aceptación sean claros y medibles
+## 2. Lista de Deseos
+- Agregar/eliminar productos de la lista
+- Compartir lista con otros usuarios
+- Notificaciones de descuentos para los productos que estan en lista
+  
+## 3. Sistema de Recomendaciones  
+- Análisis de historial de compras y lista de deseos
+- Algoritmo de similitud implementado
+- Actualización automática tras cada compra
+  
+## 4. Proceso de Compra Seguro
+- Integración con pasarelas seguras
+- Email de confirmación con detalles del pedido
+- Validación de stock previa al pago
+  
+## 5. Gestión de Carrito de Compras
+- Agregar/eliminar productos del carrito
+- Cálculo automático de total con impuestos y envío
+- Manejo de promociones y códigos de descuento
 
 ---
 
@@ -33,15 +54,15 @@ Criterios de aceptación:
 - Enviar email de confirmación.
 - Redireccionar al catálogo tras registro exitoso.
 
-## 2. Búsqueda y Filtrado de Productos
+## 2. Gestión de Lista de Deseos
 Actor: Usuario registrado
-Descripción: El usuario busca y filtra videojuegos por género, plataforma, rating ESRB y otros criterios.
+Descripción: El usuario gestiona una lista personal de videojuegos que desea adquirir en el futuro, recibiendo notificaciones sobre cambios de precio y disponibilidad.
 Criterios de aceptación:
 
-- Mostrar resultados en tiempo real mientras se aplican filtros.
-- Permitir combinación de múltiples filtros simultáneos.
-- Mostrar productos con imagen, nombre, precio, plataforma y rating.
-- Ordenar resultados por relevancia, precio o popularidad.
+- Permitir agregar/eliminar productos de la lista de deseos
+- Mostrar notificaciones cuando productos en la lista de deseos tengan descuentos
+- Alertar al usuario cuando un producto de la lista de deseos vuelva a estar en stock
+- Limitar la lista de deseos a un máximo de 50 productos por usuario
   
 ## 3. Sistema de Recomendaciones
 Actor: Usuario registrado
