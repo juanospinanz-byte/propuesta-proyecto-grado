@@ -54,7 +54,7 @@ Criterios de aceptación:
 - Enviar email de confirmación.
 - Redireccionar al catálogo tras registro exitoso.
 
-## 2. Gestión de Lista de Deseos
+## 2. Lista de Deseos
 Actor: Usuario registrado
 Descripción: El usuario gestiona una lista personal de videojuegos que desea adquirir en el futuro, recibiendo notificaciones sobre cambios de precio y disponibilidad.
 Criterios de aceptación:
