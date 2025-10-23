@@ -1,7 +1,7 @@
 # Verificación y Validación — Proyecto GameHub
 
 ## Objetivo
-Determinar la implementacion de la validacion y verificacion en el proyecto con el fin de que la tienda de videojuegos ofrezca una experiencia de usuario personalizada, segura y eficiente, el sistema busca facilitar el descubrimiento, adquisición y gestión de productos gaming mediante catálogos inteligentes, recomendaciones personalizadas y procesos de compra optimizados
+Definir la implementación de la validación y verificación dentro del proyecto para que la tienda de videojuegos ofrezca una experiencia de usuario personalizada, segura y eficiente. El sistema busca facilitar el descubrimiento, la adquisición y la gestión de productos de videojuegos mediante catálogos inteligentes, recomendaciones personalizadas y procesos de compra optimizados.
 
 ---
 
@@ -34,20 +34,19 @@ Determinar la implementacion de la validacion y verificacion en el proyecto con 
 ---
 
 ## Características 
-- El catálogo avanzado de videojuegos y consolas con filtros por género, plataforma y ESRB.
-- El sistema de recomendaciones basandose en el historial de compras y preferencias del usuario.
-- La gestión de preventas con notificaciones automáticas al usuario.
-- El carrito de compras con integración de pagos.
-- Comunidad integrada: perfiles de usuario, reseñas, listas de deseos.
-- Un panel administrativo completo para gestión de productos, categorías, inventario, pedidos y usuarios.
-
+- Un catálogo avanzado de videojuegos y consolas con filtros por género, plataforma y ESRB.
+- Un sistema de recomendaciones basado en el historial de compras y las preferencias del usuario.
+- Gestión de reservas con notificaciones automáticas.
+- Un carrito de compra con integración de pagos.
+- Un completo panel de administración para gestionar productos, categorías, inventario, pedidos y usuarios.
+  
 ---
 
 ## Casos 
 ## 1. Registro de Usuario
 Actor: Usuario nuevo
 
-Descripción: El nuevo usuario se registra en la plataforma con email y contraseña para acceder a todas las funcionalidades.
+Descripción:El usuario debe registrarse en la plataforma con un correo electrónico y una contraseña para acceder a todas las funciones.
 Criterios de aceptación:
 
 - Validar formato de email y fortaleza de contraseña.
@@ -69,7 +68,7 @@ Criterios de aceptación:
 ## 3. Sistema de Recomendaciones
 Actor: Usuario registrado
 
-Descripción: El sistema recomienda juegos basándose en el historial de compras y preferencias del usuario.
+Descripción: El sistema recomienda juegos según el historial de compras y las preferencias del usuario.
 Criterios de aceptación:
 
 - Analizar historial de compras y juegos guardados en lista de deseos.
@@ -80,7 +79,7 @@ Criterios de aceptación:
 ## 4. Proceso de Compra Seguro
 Actor: Usuario registrado
 
-Descripción: El usuario completa la compra mediante integración con Stripe o PayPal.
+Descripción: El usuario completa la compra a través de la integración de pago seguro.
 Criterios de aceptación:
 
 - Integrar pasarela de pago segura.
@@ -92,7 +91,7 @@ Criterios de aceptación:
 ## 5. Gestión de Carrito de Compras
 Actor: Usuario registrado
 
-Descripción: El usuario añade videojuegos al carrito, revisa el total y procede al checkout.
+Descripción: El usuario añade los videojuegos al carrito, consulta el total y procede al pago.
 Criterios de aceptación:
 
 - Permitir agregar/eliminar productos del carrito.
