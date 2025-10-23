@@ -1,7 +1,7 @@
 # Verificación y Validación — Proyecto GameHub
 
 ## Objetivo
-Determinar la implementacion de la validacion y verificacion en el proyecto con el fin de que la tienda de videojuegos ofrezca una experiencia de usuario personalizada, segura y eficiente. El sistema busca facilitar el descubrimiento, adquisición y gestión de productos gaming mediante catálogos inteligentes, recomendaciones personalizadas y procesos de compra optimizados
+Determinar la implementacion de la validacion y verificacion en el proyecto con el fin de que la tienda de videojuegos ofrezca una experiencia de usuario personalizada, segura y eficiente, el sistema busca facilitar el descubrimiento, adquisición y gestión de productos gaming mediante catálogos inteligentes, recomendaciones personalizadas y procesos de compra optimizados
 
 ---
 
