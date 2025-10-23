@@ -7,7 +7,7 @@ Determinar la implementacion de l validacion y verificacion en el proyecto con e
 
 ## Validación de Requisitos
 ### 1. Registro de Usuario
- Formato de email válido
+- Formato de email válido
 - Fortaleza de contraseña
 - Email de confirmación enviado
 
@@ -46,6 +46,7 @@ Determinar la implementacion de l validacion y verificacion en el proyecto con e
 ## Casos identificados 
 ## 1. Registro de Usuario
 Actor: Usuario nuevo
+
 Descripción: El nuevo usuario se registra en la plataforma con email y contraseña para acceder a todas las funcionalidades.
 Criterios de aceptación:
 
@@ -56,6 +57,7 @@ Criterios de aceptación:
 
 ## 2. Lista de Deseos
 Actor: Usuario registrado
+
 Descripción: El usuario gestiona una lista personal de videojuegos que desea adquirir en el futuro, recibiendo notificaciones sobre cambios de precio y disponibilidad.
 Criterios de aceptación:
 
@@ -66,6 +68,7 @@ Criterios de aceptación:
   
 ## 3. Sistema de Recomendaciones
 Actor: Usuario registrado
+
 Descripción: El sistema recomienda juegos basándose en el historial de compras y preferencias del usuario.
 Criterios de aceptación:
 
@@ -76,6 +79,7 @@ Criterios de aceptación:
   
 ## 4. Proceso de Compra Seguro
 Actor: Usuario registrado
+
 Descripción: El usuario completa la compra mediante integración con Stripe o PayPal.
 Criterios de aceptación:
 
@@ -87,6 +91,7 @@ Criterios de aceptación:
 
 ## 5. Gestión de Carrito de Compras
 Actor: Usuario registrado
+
 Descripción: El usuario añade videojuegos al carrito, revisa el total y procede al checkout.
 Criterios de aceptación:
 
