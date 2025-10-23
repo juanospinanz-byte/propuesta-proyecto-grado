@@ -15,3 +15,4 @@
 ---
 
 # Casos de uso identificados antes de la construcción
+## 1. Registro de Usuario
