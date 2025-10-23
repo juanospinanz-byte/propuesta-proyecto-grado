@@ -46,7 +46,7 @@ Definir la implementación de la validación y verificación dentro del proyecto
 ## 1. Registro de Usuario
 Actor: Usuario nuevo
 
-Descripción:El usuario debe registrarse en la plataforma con un correo electrónico y una contraseña para acceder a todas las funciones.
+Descripción: El usuario debe registrarse en la plataforma con un correo electrónico y una contraseña para acceder a todas las funciones.
 Criterios de aceptación:
 
 - Validar formato de email y fortaleza de contraseña.
