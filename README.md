@@ -47,6 +47,7 @@ Definir la implementación de la validación y verificación dentro del proyecto
 Actor: Usuario nuevo
 
 Descripción: El usuario debe registrarse en la plataforma con un correo electrónico y una contraseña para acceder a todas las funciones.
+
 Criterios de aceptación:
 
 - Validar formato de email y fortaleza de contraseña.
@@ -58,6 +59,7 @@ Criterios de aceptación:
 Actor: Usuario registrado
 
 Descripción: El usuario gestiona una lista personal de videojuegos que desea adquirir en el futuro, recibiendo notificaciones sobre cambios de precio y disponibilidad.
+
 Criterios de aceptación:
 
 - Permitir agregar/eliminar productos de la lista de deseos
@@ -69,6 +71,7 @@ Criterios de aceptación:
 Actor: Usuario registrado
 
 Descripción: El sistema recomienda juegos según el historial de compras y las preferencias del usuario.
+
 Criterios de aceptación:
 
 - Analizar historial de compras y juegos guardados en lista de deseos.
@@ -80,6 +83,7 @@ Criterios de aceptación:
 Actor: Usuario registrado
 
 Descripción: El usuario completa la compra a través de la integración de pago seguro.
+
 Criterios de aceptación:
 
 - Integrar pasarela de pago segura.
@@ -92,6 +96,7 @@ Criterios de aceptación:
 Actor: Usuario registrado
 
 Descripción: El usuario añade los videojuegos al carrito, consulta el total y procede al pago.
+
 Criterios de aceptación:
 
 - Permitir agregar/eliminar productos del carrito.
