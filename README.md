@@ -6,27 +6,27 @@ Determinar la implementacion de l validacion y verificacion en el proyecto con e
 ---
 
 ## Validación de Requisitos
-## 1. Registro de Usuario
-- Formato de email válido
+### 1. Registro de Usuario
+ Formato de email válido
 - Fortaleza de contraseña
 - Email de confirmación enviado
 
-## 2. Lista de Deseos
+### 2. Lista de Deseos
 - Agregar/eliminar productos de la lista
 - Compartir lista con otros usuarios
 - Notificaciones de descuentos para los productos que estan en lista
   
-## 3. Sistema de Recomendaciones  
+### 3. Sistema de Recomendaciones  
 - Análisis de historial de compras y lista de deseos
 - Algoritmo de similitud implementado
 - Actualización automática tras cada compra
   
-## 4. Proceso de Compra Seguro
+### 4. Proceso de Compra Seguro
 - Integración con pasarelas seguras
 - Email de confirmación con detalles del pedido
 - Validación de stock previa al pago
   
-## 5. Gestión de Carrito de Compras
+### 5. Gestión de Carrito de Compras
 - Agregar/eliminar productos del carrito
 - Cálculo automático de total con impuestos y envío
 - Manejo de promociones y códigos de descuento
@@ -43,7 +43,7 @@ Determinar la implementacion de l validacion y verificacion en el proyecto con e
 
 ---
 
-# Casos identificados 
+## Casos identificados 
 ## 1. Registro de Usuario
 Actor: Usuario nuevo
 Descripción: El nuevo usuario se registra en la plataforma con email y contraseña para acceder a todas las funcionalidades.
