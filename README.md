@@ -19,7 +19,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 ## Para el Usuario Final
 
-1. Catálogo Avanzado: Navega por un amplio catálogo de videojuegos y consolas con filtros por género, plataforma, ESRB y más.
+1. Catálogo Avanzado: Navega por un amplio catálogo de videojuegos y consolas con filtros por género, plataforma, etc.
 
 2. Sistema de Recomendaciones: Descubre nuevos juegos que se adapten a tus gustos gracias a nuestro algoritmo inteligente.
 
