@@ -1,15 +1,19 @@
 ### Autor
 Juan Esteban Ospina Pinzón
 
+---
+
 # GameHub
 
-GameHub es una plataforma de e-commerce especializada en videojuegos y consolas, diseñada para ofrecer una experiencia de compra única y personalizada para la comunidad gamer.
+GameHub es una plataforma tipo pagina web especializada en videojuegos y consolas, diseñada para ofrecer una experiencia de compra única y personalizada para la comunidad gamer.
 
+---
 
 # Objetivo del Proyecto
 
-Desarrollar una tienda en línea full-stack que no solo liste productos, sino que también integre funcionalidades avanzadas como un sistema de recomendaciones, gestión de preventas, una comunidad de usuarios y un panel administrativo completo, todo con un diseño moderno y centrado en el usuario.
+Desarrollar una tienda en línea que no solo liste productos, sino que también integre funcionalidades avanzadas como un sistema de recomendaciones, gestión de preventas, una comunidad de usuarios y un panel administrativo completo, todo con un diseño moderno y centrado en el usuario.
 
+---
 
 # Características Principales
 
@@ -34,25 +38,25 @@ Desarrollar una tienda en línea full-stack que no solo liste productos, sino qu
 
 # Stack Tecnológico
 
-1. Frontend: React.js con Next.js para Renderizado del Lado del Servidor (SSR) y una mejor optimización SEO.
+1. Frontend: React.js con Next.js para Renderizado del Lado del Servidor y una mejor optimización.
 
-2. Backend: Node.js con Express.js o Python con Django.
+2. Backend: Node.js con Express.js o .
 
-3. Base de Datos: PostgreSQL.
+3. Base de Datos: MySQL.
 
 4. Almacenamiento: Cloudinary para la gestión de imágenes.
 
-5. Estilos: CSS Modules, Sass o Tailwind CSS
+5. Estilos: CSS 
 
-6. Pagos: Integración con Stripe o PayPal.
+6. Pagos: Integración con PayPal.
 
-7. Despliegue: Vercel/Netlify (Frontend) y Heroku/AWS (Backend).
-
-8. Control de Versiones: Git con GitHub.
+---
 
 # Diagrama de Flujo
 
 ![Diagrama Flujo Proyecto](https://github.com/user-attachments/assets/30cbcfbb-80e8-498a-9bdb-ebc1e7dd2092)
+
+---
 
 
 # Historias de Usuario
