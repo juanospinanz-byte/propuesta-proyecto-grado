@@ -42,7 +42,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 3. Base de Datos: MySQL.
 
-5. Estilos: CSS 
+5. Estilo: CSS 
 
 6. Pagos: PayPal, tarjeta debito/credito, PSE, Nequi.
 
