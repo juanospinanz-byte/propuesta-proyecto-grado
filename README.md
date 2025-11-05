@@ -25,7 +25,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 3. Gestión de Preventas: Reserva los lanzamientos más esperados y recibe notificaciones cuando estén disponibles.
 
-4. Proceso de Compra Seguro: Carrito de compras, checkout y pasarela de pagos integrada para una experiencia fluida y segura.
+4. Proceso de Compra Seguro: Carrito de compras, pago y la factura que se le envia al usuario por el correo que tiene asociado a su cuenta.
 
 
 ## Para el Administrador
