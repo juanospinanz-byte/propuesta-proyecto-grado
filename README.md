@@ -17,7 +17,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 # Características Principales
 
-## Para el Usuario Final
+## Para el Usuario 
 
 1. Catálogo Avanzado: Navega por un amplio catálogo de videojuegos y consolas con filtros por género, plataforma, etc.
 
@@ -25,9 +25,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 3. Gestión de Preventas: Reserva los lanzamientos más esperados y recibe notificaciones cuando estén disponibles.
 
-4. Comunidad Integrada: Crea un perfil, deja reseñas, crea listas de deseos y comparte tu pasión por los videojuegos.
-
-5. Proceso de Compra Seguro: Carrito de compras, checkout y pasarela de pagos integrada para una experiencia fluida y segura.
+4. Proceso de Compra Seguro: Carrito de compras, checkout y pasarela de pagos integrada para una experiencia fluida y segura.
 
 
 ## Para el Administrador
