@@ -36,7 +36,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 # Como estara hecho
 
-1. Frontend: React.js para renderizado del Servidor y una mejor optimización.
+1. Frontend: React.js 
 
 2. Backend: Node.js 
 
