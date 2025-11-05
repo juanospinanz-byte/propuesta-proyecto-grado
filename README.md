@@ -8,7 +8,7 @@ Diseñar y desarrollar una plataforma web especializada en videojuegos que permi
 
 ---
 
-## caracteristicas
+## Caracteristicas
 1. El catálogo avanzado de videojuegos y consolas con filtros por género, plataforma y ESRB.
 
 2. El sistema de recomendaciones basándose en el historial de compras y preferencias del usuario.
@@ -21,7 +21,7 @@ Diseñar y desarrollar una plataforma web especializada en videojuegos que permi
 
 ---
 
-## caracteristicas especificas
+## Caracteristicas especificas
 
 - Implementar un catálogo avanzado de videojuegos y consolas con filtros por género, plataforma.
 - Desarrollar un sistema de recomendaciones inteligente basado en historial de compras y preferencias del usuario.
@@ -36,4 +36,6 @@ Diseñar y desarrollar una plataforma web especializada en videojuegos que permi
 - Backend: Node.js
 - Base de datos: MySQL
 - Diseño: CSS
+
+## Historias de usuario
 
