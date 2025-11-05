@@ -34,7 +34,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 2. Métricas y Reportes: Obtén insights valiosos sobre las ventas y el comportamiento de los usuarios.
 
-# Stack Tecnológico
+# Como estara hecho
 
 1. Frontend: React.js para renderizado del Servidor y una mejor optimización.
 
