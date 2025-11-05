@@ -11,7 +11,7 @@ GameHub es una plataforma especializada en videojuegos y consolas, diseñada par
 
 # Objetivo del Proyecto
 
-Desarrollar una tienda en línea que no solo liste productos, sino que también integre funcionalidades avanzadas como un sistema de recomendaciones, gestión de preventas, una comunidad de usuarios y un panel administrativo completo, todo con un diseño moderno y centrado en el usuario.
+Desarrollar una tienda en línea que no solo venda productos, sino que también integre funcionalidades avanzadas como un sistema de recomendaciones, gestión de preventas, una comunidad de usuarios y un panel administrativo completo, todo con un diseño moderno y centrado en el usuario.
 
 ---
 
