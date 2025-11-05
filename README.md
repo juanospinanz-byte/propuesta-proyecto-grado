@@ -5,7 +5,7 @@ Juan Esteban Ospina Pinzón
 
 # GameHub
 
-GameHub es una plataforma tipo pagina web especializada en videojuegos y consolas, diseñada para ofrecer una experiencia de compra única y personalizada para la comunidad gamer.
+GameHub es una plataforma especializada en videojuegos y consolas, diseñada para ofrecer una experiencia de compra única y personalizada para la comunidad gamer.
 
 ---
 
