@@ -61,31 +61,31 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 ## Historia de Usuario 1: Registro de Usuario
 
-- ID: GH-001
+- ID: HU-001
 - Título: Registro de nuevo usuario
 - Descripción: Como nuevo usuario, quiero registrarme en la plataforma con mi email y contraseña, para poder acceder a todas las funcionalidades de GameHub.
 
 ## Historia de Usuario 2: Búsqueda y Filtrado de Productos
 
-- ID: GH-002
+- ID: HU-002
 - Título: Búsqueda y filtrado en catálogo
 - Descripción: Como usuario, quiero buscar y filtrar videojuegos por género, plataforma y rating ESRB, para encontrar rápidamente lo que me interesa.
 
 ## Historia de Usuario 3: Sistema de Recomendaciones
 
-- ID: GH-003
+- ID: HU-003
 - Título: Recomendaciones personalizadas
 - Descripción: Como usuario registrado, quiero que el sistema me recomiende juegos basados en mis compras y gustos, para descubrir títulos.
 
 ## Historia de Usuario 4: Reserva de Preventas
 
-- ID: GH-004
+- ID: HU-004
 - Título: Reservar juego en preventa
 - Descripción: Como usuario, quiero reservar un juego que aún no ha sido lanzado, para asegurarme de recibirlo el día de su estreno.
   
 ## Historia de Usuario 5: Gestión de Carrito de Compras
 
-- ID: GH-005
+- ID: HU-005
 - Título: Añadir producto al carrito
 - Descripción: Como usuario, quiero añadir videojuegos al carrito de compras, para luego proceder al pago.
 
