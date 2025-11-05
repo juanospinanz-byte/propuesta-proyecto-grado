@@ -32,7 +32,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 1. Panel de Control Completo: Gestiona productos, categorías, inventario, pedidos y usuarios desde una interfaz.
 
-2. Métricas y Reportes: Obtén insights valiosos sobre las ventas y el comportamiento de los usuarios.
+2. Métricas y Reportes: Obtén informacion sobre las ventas y el comportamiento de los usuarios.
 
 # Como estara hecho
 
