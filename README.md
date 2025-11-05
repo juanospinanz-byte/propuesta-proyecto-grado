@@ -34,7 +34,7 @@ Definir la implementación de la validación y verificación dentro del proyecto
 ---
 
 ## Características 
-- Un catálogo avanzado de videojuegos y consolas con filtros por género, plataforma y ESRB.
+- Un catálogo avanzado de videojuegos y consolas con filtros por género, plataforma.
 - Un sistema de recomendaciones basado en el historial de compras y las preferencias del usuario.
 - Gestión de reservas con notificaciones automáticas.
 - Un carrito de compra con integración de pagos.
