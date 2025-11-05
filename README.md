@@ -38,17 +38,15 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 # Stack Tecnológico
 
-1. Frontend: React.js con Next.js para Renderizado del Lado del Servidor y una mejor optimización.
+1. Frontend: React.js con Next.js para el renderizado del Lado del Servidor y una mejor optimización.
 
-2. Backend: Node.js con Express.js o .
+2. Backend: Node.js con Express.js.
 
 3. Base de Datos: MySQL.
 
-4. Almacenamiento: Cloudinary para la gestión de imágenes.
-
 5. Estilos: CSS 
 
-6. Pagos: Integración con PayPal.
+6. Pagos: PayPal, tarjeta debito/credito, PSE, Nequi.
 
 ---
 
