@@ -67,7 +67,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 - ID: HU-002
 - Título: Búsqueda y filtrado en catálogo
-- Descripción: Como usuario, quiero buscar y filtrar videojuegos por género, plataforma y rating ESRB, para encontrar rápidamente lo que me interesa.
+- Descripción: Como usuario, quiero buscar y filtrar videojuegos por género y plataforma, para encontrar rápidamente lo que me interesa.
 
 ## Historia de Usuario 3: Sistema de Recomendaciones
 
