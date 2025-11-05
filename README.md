@@ -30,7 +30,7 @@ Desarrollar una tienda en línea que no solo liste productos, sino que también 
 
 ## Para el Administrador
 
-1. Panel de Control Completo: Gestiona productos, categorías, inventario, pedidos y usuarios desde una interfaz intuitiva.
+1. Panel de Control Completo: Gestiona productos, categorías, inventario, pedidos y usuarios desde una interfaz.
 
 2. Métricas y Reportes: Obtén insights valiosos sobre las ventas y el comportamiento de los usuarios.
 
