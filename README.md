@@ -4,26 +4,20 @@ Autor: Juan Esteban Ospina Pinzón
 ---
 
 ## Objetivo
-Diseñar y desarrollar una plataforma web especializada en videojuegos que permita a los usuarios descubrir, gestionar y comprar productos a través de un catálogo avanzado con un sistema de recomendaciones personalizado, mientras se proporcionan a los administradores herramientas completas para gestionar el inventario, los pedidos y los usuarios.
+Desarrollar una tienda en línea que no solo venda productos, sino que también integre funcionalidades avanzadas como un sistema de recomendaciones, gestión de preventas, una comunidad de usuarios y un panel administrativo completo, todo con un diseño moderno y centrado en el usuario.
 
 ---
 
 ## Caracteristicas
+### Para el usuario
 - El catálogo avanzado de videojuegos y consolas con filtros por género, plataforma.
 - El sistema de recomendaciones basándose en el historial de compras y preferencias del usuario.
 - La gestión de preventas con notificaciones automáticas al usuario.
 - El carrito de compras con integración de pagos.
+
+### Para el administrador
 - Un panel administrativo completo para gestión de productos, categorías, inventario, pedidos y usuarios.
-
----
-
-## Caracteristicas especificas
-
-- Implementar un catálogo avanzado de videojuegos y consolas con filtros por género, plataforma.
-- Desarrollar un sistema de recomendaciones inteligente basado en historial de compras y preferencias del usuario.
-- Gestionar reservas y preventas con notificaciones automáticas a los usuarios.
-- Proporcionar un carrito de compras con metodo de pago seguro.
-- Ofrecer un panel administrativo completo para gestión de productos, categorías, inventario, pedidos y usuarios.
+- obtener la informacion sobre las ventas de los usuarios
 
 --- 
 
