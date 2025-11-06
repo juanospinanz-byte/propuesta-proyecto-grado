@@ -11,6 +11,20 @@ Desarrollar una tienda en línea de videojuegos que integre funcionalidades avan
 
 ---
 
+## Conceptos básicos de gestión de requerimientos
+- **Usuarios finales:** Necesitan buscar, filtrar, comprar videojuegos, recibir recomendaciones personalizadas y gestionar listas de deseos.
+- **Administradores:** Requieren un panel completo para gestionar productos, inventario, pedidos y obtener información de ventas.
+
+---
+
+## Importancia de la recolección de requisitos
+
+- Define el alcance
+- Identifica necesidades reales
+- Reduce riesgos
+
+---
+
 ## Ciclo de Vida de Desarrollo de Software
 
 ### Metodología
@@ -147,3 +161,16 @@ Criterios de Aceptación:
 - Resultados que se actualizan sin recargar página
 - Ordenamiento por relevancia, precio, novedad
 - Paginación de resultados
+
+## HU04: Sistema de recomendaciones personalizadas
+Como usuario con historial de compras
+
+Quiero recibir recomendaciones personalizadas
+
+Para descubrir juegos afines a mis gustos
+
+Criterios de Aceptación:
+
+- Analizar historial de compras y lista de deseos
+- Implementar algoritmo de similitud basado en género y plataforma
+- Actualizar recomendaciones tras cada compra
