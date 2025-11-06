@@ -103,25 +103,25 @@ Node.js
 
 ### HU01: Registro de nuevo usuario
 Como usuario nuevo
+
 Quiero registrarme en la plataforma con email y contraseña
+
 Para poder acceder a todas las funciones de GameHub
 
-**Criterios de Aceptación:**
+Criterios de Aceptación:
 - Validar formato de email correcto
 - La contraseña debe tener mínimo 8 caracteres, una mayúscula y un número
 - Enviar email de confirmación de cuenta
 - Redireccionar al catálogo tras registro exitoso
 
-**Criterios de Verificación:**
-- Pruebas de email y contraseña
-- Prueba de envío de email de confirmación
-
 ### HU02: Inicio de sesión seguro
 Como usuario registrado
+
 Quiero iniciar sesión de forma segura
+
 Para acceder a mi cuenta y funciones personalizadas
 
-**Criterios de Aceptación:**
+Criterios de Aceptación:
 - Validar credenciales 
 - Implementar protección como el 2FA
 - Recordar sesión opcionalmente
@@ -129,5 +129,14 @@ Para acceder a mi cuenta y funciones personalizadas
 
 ### HU03: Búsqueda y filtrado de productos
 Como usuario registrado o invitado
+
 Quiero buscar y filtrar videojuegos por diversos criterios
+
 Para encontrar rápidamente productos de mi interés
+
+Criterios de Aceptación:
+- Barra de búsqueda por texto en tiempo real
+- Filtros por género, plataforma, precio, rating
+- Resultados que se actualizan sin recargar página
+- Ordenamiento por relevancia, precio, novedad
+- Paginación de resultados
