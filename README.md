@@ -6,7 +6,7 @@
 
 ## Introducción 
 
-### Objetivo General
+### Objetivo del Proyecto
 Desarrollar una tienda en línea de videojuegos que integre funcionalidades avanzadas como sistema de recomendaciones, gestión de preventas, comunidad de usuarios y panel administrativo completo, con un diseño moderno y centrado en el usuario.
 
 ---
@@ -99,6 +99,12 @@ Node.js
 
 ---
 
+## Métricas de Calidad
+
+- Que la forma de pago sea segura
+- El rendimiento de la pagina al buscar videojuegos, hacer la compra, ect. Debe ser rapido
+- Que no se caiga la pagina al tener muchos usuarios conectados a la vez
+---
 ## Escritura de Requisitos de Usuario
 
 ### HU01: Registro de nuevo usuario
