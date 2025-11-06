@@ -9,9 +9,6 @@
 ### Objetivo General
 Desarrollar una tienda en línea de videojuegos que integre funcionalidades avanzadas como sistema de recomendaciones, gestión de preventas, comunidad de usuarios y panel administrativo completo, con un diseño moderno y centrado en el usuario.
 
-### Alcance
-GameHub será una plataforma de comercio electrónico especializada en videojuegos y consolas, ofreciendo experiencias personalizadas mediante catálogos inteligentes, recomendaciones basadas en comportamiento y procesos de compra optimizados.
-
 ---
 
 ## Ciclo de Vida de Desarrollo de Software
@@ -20,12 +17,6 @@ GameHub será una plataforma de comercio electrónico especializada en videojueg
 - **Enfoque:** Ágil/Scrum
 - **Iteraciones:** Sprints de 2 semanas
 - **Entregables:** Incrementos funcionales tras cada sprint
-
-### Fases del Proyecto
-1. Análisis de Requerimientos
-2. Diseño del Sistema
-3. Desarrollo
-4. Pruebas 
 
 ---
 
@@ -144,4 +135,30 @@ Node.js
 - **Usuario:** Registro, autenticación y gestión de perfil
 - **Compras:** Carrito, pagos y gestión de órdenes
 - **Administración:** Panel de control y reportes
+
+---
+
+## V&V de requisitos
+
+**VALIDACIÓN:**
+
+**Validación de Lista de Deseos:**
+- Los usuarios pueden agregar/eliminar fácilmente
+- Las notificaciones de descuentos llamaria la atencion del usuario
+- El límite de 50 productos es adecuado
+
+**Validación del Proceso de Compra:**
+- La integración al pagar es segura y confiable
+- El email de confirmación proporciona seguridad
+- La validación de stock previene frustraciones
+
+**VERIFICACIÓN:**
+
+**Verificación de Lista de Deseos:**
+- El límite de 50 productos se respeta
+- Las notificaciones de descuentos debe de aparecer cuando corresponde
+
+ **Verificación de Recomendaciones:**
+- El algoritmo debe producir resultados correctos por la busqueda o compra del usuario
+- La actualización tras compra se ejecuta automáticamente y se actualiza el algoritmo
 
