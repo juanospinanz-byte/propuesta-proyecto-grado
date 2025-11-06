@@ -28,72 +28,7 @@ Desarrollar una tienda en línea de videojuegos que integre funcionalidades avan
 
 --- 
 
-## Requerimientos Funcionales
-
-### Catálogo y Búsqueda (HU01)
-**Requerimiento:** Sistema de búsqueda y filtrado avanzado
-
-**Criterios de Aceptación:**
-  - Barra de búsqueda por texto en tiempo real
-  - Filtros por género y plataforma
-  - Actualización dinámica de resultados sin recarga completa
-
-### Sistema de Recomendaciones (HU02)
-**Requerimiento:** Motor de recomendaciones personalizadas
-
-**Criterios de Aceptación:**
-  - Análisis de historial de compras y preferencias
-  - Algoritmo de similitud implementado
-  - Mínimo 5 recomendaciones relevantes
-  - Actualización automática tras cada compra
-
-### Gestión de Preventas (HU03)
-**Requerimiento:** Sistema de reservas con notificaciones
-
-**Criterios de Aceptación:**
-  - Botón "Reservar" en productos en preventa
-  - Confirmación y captura de método de pago
-  - Notificación automática vía email al disponibilidad
-
-### Proceso de Pago Seguro (HU04)
-**Requerimiento:** Flujo de compra seguro y confiable
-
-**Criterios de Aceptación:**
-  - Integración con pasarelas de pago seguras
-  - Soporte para 3+ métodos de pago
-  - Validación de datos de tarjeta y dirección
-  - Generación automática de comprobante PDF
-
-### Lista de Deseos (HU05)
-**Requerimiento:** Gestión de productos de interés futuro
-
-**Criterios de Aceptación:**
-  - Agregar/eliminar productos de lista de deseos
-  - Notificaciones de descuentos y disponibilidad
-  - Límite de 50 productos por usuario
-  - Compartir lista con otros usuarios
-
-### Registro de Usuario
-**Requerimiento:** Sistema de autenticación seguro
-
-**Criterios de Aceptación:**
-  - Validación de formato email y fortaleza de contraseña
-  - Almacenamiento seguro con encriptación
-  - Email de confirmación de registro
-  - Redirección a catálogo tras registro exitoso
-
-### Gestión de Carrito
-**Requerimiento:** Carrito de compras persistente
-
- **Criterios de Aceptación:**
-  - Agregar/eliminar productos del carrito
-  - Cálculo automático de total con impuestos y envío
-  - Persistencia entre sesiones
-  - Validación de stock antes de pago
-
----
-
-## Requerimientos No Funcionales 
+## Requisitos No Funcionales 
 
 ### Calidad en Uso
 - **Eficiencia:** Tiempo de respuesta rapida para búsquedas
@@ -115,7 +50,7 @@ Desarrollar una tienda en línea de videojuegos que integre funcionalidades avan
 
 ---
 
-## Arquitectura y Stack Tecnológico
+## Arquitectura
 
 ### Frontend
  React y CSS
@@ -162,3 +97,32 @@ Node.js
 - El algoritmo debe producir resultados correctos por la busqueda o compra del usuario
 - La actualización tras compra se ejecuta automáticamente y se actualiza el algoritmo
 
+---
+
+## Escritura de Requisitos de Usuario
+
+### HU01: Registro de nuevo usuario
+Como usuario nuevo
+Quiero registrarme en la plataforma con email y contraseña
+Para poder acceder a todas las funciones de GameHub
+
+**Criterios de Aceptación:**
+- Validar formato de email correcto
+- La contraseña debe tener mínimo 8 caracteres, una mayúscula y un número
+- Enviar email de confirmación de cuenta
+- Redireccionar al catálogo tras registro exitoso
+
+**Criterios de Verificación:**
+- Pruebas de email y contraseña
+- Prueba de envío de email de confirmación
+
+### HU02: Inicio de sesión seguro
+Como usuario registrado
+Quiero iniciar sesión de forma segura
+Para acceder a mi cuenta y funciones personalizadas
+
+**Criterios de Aceptación:**
+- Validar credenciales 
+- Implementar protección como el 2FA
+- Recordar sesión opcionalmente
+- Redireccionar a página principal o catálogo
