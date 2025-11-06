@@ -14,7 +14,7 @@ Desarrollar una tienda en línea de videojuegos que integre funcionalidades avan
 ## Ciclo de Vida de Desarrollo de Software
 
 ### Metodología
-- **Enfoque:** Ágil/Scrum
+- **Enfoque:** Ágil
 - **Iteraciones:** Sprints de 2 semanas
 - **Entregables:** Incrementos funcionales tras cada sprint
 
