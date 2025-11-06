@@ -4,7 +4,7 @@
 
 ---
 
-## Introducción y Contexto del Proyecto
+## Introducción 
 
 ### Objetivo General
 Desarrollar una tienda en línea de videojuegos que integre funcionalidades avanzadas como sistema de recomendaciones, gestión de preventas, comunidad de usuarios y panel administrativo completo, con un diseño moderno y centrado en el usuario.
