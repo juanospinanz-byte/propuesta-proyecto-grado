@@ -18,14 +18,6 @@ Desarrollar una tienda en línea de videojuegos que integre funcionalidades avan
 - **Iteraciones:** Sprints de 2 semanas
 - **Entregables:** Incrementos funcionales tras cada sprint
 
----
-
-## Técnicas de Recolección de Requerimientos Aplicadas
-
-### Técnicas Utilizadas
-- Entrevistas
-- Análisis de Documentación
-
 --- 
 
 ## Requisitos No Funcionales 
@@ -64,6 +56,15 @@ Node.js
 
 ---
 
+## Herramientas para reporte
+
+- Sistema de Catálogo y Búsqueda
+- Sistema de Recomendaciones Personalizadas
+- Gestión de Preventas y Notificaciones
+- Proceso de Compra y Pagos
+- Panel Administrativo
+
+---
 ## Gestión de Historias de Usuario
 
 - **Catálogo:** Búsqueda, filtrado y visualización de productos
