@@ -126,3 +126,8 @@ Para acceder a mi cuenta y funciones personalizadas
 - Implementar protección como el 2FA
 - Recordar sesión opcionalmente
 - Redireccionar a página principal o catálogo
+
+### HU03: Búsqueda y filtrado de productos
+Como usuario registrado o invitado
+Quiero buscar y filtrar videojuegos por diversos criterios
+Para encontrar rápidamente productos de mi interés
