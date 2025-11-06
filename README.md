@@ -47,15 +47,6 @@ Desarrollar una tienda en línea de videojuegos que integre funcionalidades avan
 
 ---
 
-##  Verificación y Validación de Requerimientos
-### Plan de Validación
-- **Pruebas de Usabilidad:** Con 20 usuarios representativos
-- **Pruebas de Carga:** Hasta 1500 usuarios concurrentes
-- **Pruebas de Seguridad:** Penetration testing y análisis de código
-- **Pruebas de Aceptación:** Con stakeholders y usuarios finales
-
----
-
 ## Arquitectura
 
 ### Frontend
